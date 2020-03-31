@@ -20,7 +20,8 @@ class Song
   end
   
   def self.artists
-    
+    unique_artists = []
+    @@artists
   end
   
   def self.genres
